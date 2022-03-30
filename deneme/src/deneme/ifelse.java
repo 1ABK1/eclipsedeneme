@@ -30,5 +30,6 @@ public class ifelse {
 
         System.out.println("helloooooooo");
         System.out.println("ben cozdum bu isi");
+        System.out.println("lalala");
 	}
 }
